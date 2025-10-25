@@ -78,21 +78,6 @@ Por outro lado, a **Loja 4** é a unidade com **pior desempenho agregado**, apre
 
 ---
 
-## 🗂️ Estrutura do Projeto
-
-```
-
-📦 analise-lojas
-├── 📁 dados/                # Arquivos CSV ou TXT de cada loja
-├── 📁 imagens/              # Gráficos gerados (opcional)
-├── 📄 analise_lojas.ipynb   # Notebook principal com o código completo
-├── 📄 relatorio_final.md    # Relatório técnico em Markdown
-└── 📄 README.md             # Este arquivo
-
-```
-
----
-
 ## 🧑‍💻 Autor
 
 **Lissandro Sousa**  
